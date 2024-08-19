@@ -1,0 +1,34 @@
+# Ignore virtual environments
+.venv/
+vue-fastapi/.venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment and build files
+.env
+dist/
+
+# Ignore additional files and directories
+.DS_Store
+node_modules
+/dist
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore files and directories in vue/vue-todo-app
+vue/vue-todo-app/node_modules
