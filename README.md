@@ -1,7 +1,27 @@
 # vue-fastapi-userauth
+ToDo App with JWT User Authentication
+Vue.js - Frontend
+FastAPI - Backend
+
+# Backend 
+## Setup
+```
+cd .\vue-fastapi\fastapi\
+pip install -r requirements.txt
+```
+
+## Backend
+```
+.\.venv\Scripts\activate
+cd .\vue-fastapi\fastapi\
+```
+
+# Frontend
 
 ## Project setup
+In a new terminal
 ```
+cd .\vue-fastapi\vue\vue-todo-app\
 npm install
 ```
 
